@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "express-demo": {
+      "command": "npx",
+      "args": ["tsx", "/你的绝对路径/express-mcp-starter/src/mcp.ts"],
+      "env": {}
+    }
+  }
+}

@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.DS_Store
+# OAuth 凭据落盘目录，别提交（仓库是 public）
+.wm-oauth/
+remotion-demo
